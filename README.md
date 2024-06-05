@@ -3,7 +3,7 @@
 ## Overview
 Welcome to a comprehensive portfolio project developed as part of the Holberton School curriculum. This project showcases our skills in software engineering, from frontend design to backend development. Below is a full-page screenshot of our application:
 
-![Full Page Screenshot](/Portfolio/assets/My%20Portfolio.png)
+![Full Page Screenshot](/Portfolio/blob/main/assets/My%20Portfolio.png)
 
 ## Inspiration
 The inspiration for this project came from our collective passion for solving real-world problems through technology. We wanted to create something impactful that not only showcases our technical skills but also contributes positively to the community. Our journey began when we identified a common challenge many people face problem of bulding their own portfolio, and we decided to address it through this project.
